@@ -1,6 +1,6 @@
 # **C\# Real-Time Order Book Viewer & Tick Simulator**
 
-This project demonstrates a real-time, 50-level order book viewer with a separate tick simulator, built using C\# .NET 8 and WinForms. The architecture follows a client-server model where the OrderBookSimulator acts as a server, streaming updates to the OrderBookViewer client via a TCP connection.
+This project demonstrates a real-time, 50-level order book viewer with a separate tick simulator, built using C\# .NET 9 and WinForms. The architecture follows a client-server model where the OrderBookSimulator acts as a server, streaming updates to the OrderBookViewer client via a TCP connection.
 
 ## **Architecture**
 
